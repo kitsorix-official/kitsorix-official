@@ -2,28 +2,26 @@
 
 Indie developer focused on creating simple, practical, and user-friendly tools. I enjoy turning everyday frustrations into smooth solutions — one project at a time.
 
-When I'm not coding, you'll likely find me painting miniatures, chasing the perfect 3D print, or trying (and sometimes failing) to keep up with the rapidly evolving AI world. I'm a firm believer that good tools should just work and make life a little bit easier.
+When I'm not coding, you’ll often find me painting miniatures, fine-tuning 3D prints, or trying to keep up with the fast-moving world of AI. I believe the best tools are the ones that quietly solve problems and just work.
 
 ### Current Projects
 
-- **[STLAccess](https://github.com/kitsorix-official/stlaccess)**  
-  Free universal STL scale converter for tabletop miniatures and 3D printing. Built to solve my own scale-related headaches.
+- **[STLAccess](https://github.com/kitsorix-official/stlaccess)** — A free, accurate STL scale converter for Warhammer, D&D, and tabletop miniatures. Born from my own repeated scaling frustrations.
 
-- **[AITrendFlash](https://github.com/kitsorix-official/aitrendflash)**  
-  A lightweight tool to help track and summarize the chaotic world of AI news and trends.
+- **[AITrendFlash](https://github.com/kitsorix-official/aitrendflash)** — A lightweight tool to track and summarize AI news and trends without the noise.
 
 ### What I'm Working On
-I'm currently exploring new ideas and building small tools that solve real problems. No strict niche yet — just a love for clean code, good UX, and useful applications.
+I’m in exploration mode — building small, useful projects across different areas. Clean code, thoughtful UX, and real problem-solving are my main focus.
 
-Always open to feedback, ideas, or collaboration.
+Feedback and ideas are always welcome.
 
 ---
 
-### Let's Connect
+### Connect
 
 - **Website**: [stlaccess.com](https://stlaccess.com)
 - **GitHub**: [github.com/kitsorix-official](https://github.com/kitsorix-official)
 
 ---
 
-Made with ☕ and occasional rage-quits from poorly scaled miniatures.
+Made with ☕ and the occasional desire to fix things that shouldn't be broken.
